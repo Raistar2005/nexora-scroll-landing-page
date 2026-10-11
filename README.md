@@ -30,7 +30,7 @@ A modern, responsive, animated landing page built with React and Vite. NEXORA sh
 ## 💻 Run Locally
 
 1. Clone this repository:
-   `git clone https://github.com/Raistar2005/nexora-scroll-landing-page/edit/main/README.md
+   `git clone https://github.com/Raistar2005/nexora-scroll-landing-page
 
 2. Open the project folder:
    `cd nexora-scroll-landing-page`
