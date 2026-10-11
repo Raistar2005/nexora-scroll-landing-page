@@ -1,16 +1,50 @@
-# React + Vite
+# NEXORA — Creative Digital Agency Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, animated landing page built with React and Vite. NEXORA showcases a creative digital agency with a clean design, interactive elements, and light/dark theme support.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Live Website:** https://nexora-scroll-landing-page.vercel.app/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive navigation and mobile-friendly layout
+* Light and dark theme toggle
+* Animated hero section and scroll-based reveal effects
+* Services and featured projects sections
+* About section and company timeline
+* Testimonial and pricing sections
+* Contact form with basic validation
+* Responsive styling for different screen sizes
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Vite
+* JavaScript
+* CSS
+* Tailwind CSS
+* Framer Motion
+* Lucide React Icons
+
+## 💻 Run Locally
+
+1. Clone this repository:
+   `git clone https://github.com/Raistar2005/nexora-scroll-landing-page/edit/main/README.md
+
+2. Open the project folder:
+   `cd nexora-scroll-landing-page`
+
+3. Install dependencies:
+   `npm install`
+
+4. Start the development server:
+   `npm run dev`
+
+## 📌 Project Purpose
+
+This project was developed as a frontend web development internship task to demonstrate responsive UI design, reusable React components, animations, and modern frontend tooling.
+
+---
+
+Built with React and Vite.
